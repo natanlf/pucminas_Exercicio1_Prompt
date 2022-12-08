@@ -1,4 +1,3 @@
-const { message } = require("prompt");
 const prompt = require("prompt");
 
 prompt.start();
